@@ -3,7 +3,7 @@ const hoursEl = document.querySelector('#hours');
 const minutesEl = document.querySelector('#minutes');
 const secondsEl = document.querySelector('#seconds');
 
-const fuerteTrip = '15 February 2022 9:10';
+const fuerteTrip = '15 February 2026 9:10';
 
 function countdown(){
     const fuerteTripDate = new Date(fuerteTrip);
